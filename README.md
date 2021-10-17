@@ -31,13 +31,8 @@ to see the GIT tools.
 (GIT Repository: https://github.com/CSCI-KNOX/CSPB-1300-Arrays-and-Vectors)
 1. Select the folder icon and the CSPB-1300-Arrays-and-Vectors directory to see the files in the newly cloned directory.
 View the markdown files (\*.md) by right clicking on the file, select **_open with_** which will list two possible applications: ***Editor*** and ***Markdown Preview***.  Select the ***Markdown Preview*** to view the document.  Use the ***Editor*** to view the source of the document.
-<<<<<<< HEAD
-=======
 
 <img src="doc_images/right_click_on_markdown.png" alt="right_click_on_markdown" width="230" style="vertical-align: top;"/> <img src="doc_images/markdown_open_with.png" alt="markdown_open_with" width="100"  style="vertical-align: top;"/> 
->>>>>>> 83b9af78cbe7d8556b485731e440d7f6e4cf0abb
-
-	<img src="doc_images/right_click_on_markdown.png" alt="right_click_on_markdown" width="230" style="vertical-align: top;"/> <img src="doc_images/markdown_open_with.png" alt="markdown_open_with" width="100"  style="vertical-align: top;"/> 
 
 6. View the markdown preview for the *Instructions* markdown file.
 1. Begin writing the functions for the assignment.
