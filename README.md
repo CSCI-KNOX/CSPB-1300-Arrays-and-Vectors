@@ -18,7 +18,7 @@ Also, the function prototype is given for each problem so you know exactly the r
 Please read the instruction page in the repository for more details on the functions required by the assignment.
 
 
-### You will learn how to CLONE this repository into your JupyterHub Notebook. 
+### First, you will learn how to CLONE (make a copy of all the information) the assignment repository into your JupyterHub Notebook. 
 
 Please read the information posted in this repository carefully before getting started. It contains everything you need to know about the assignment. 
 
