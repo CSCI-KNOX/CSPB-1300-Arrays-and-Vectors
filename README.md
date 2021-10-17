@@ -4,7 +4,7 @@ Accessing the description of homework for CSPB-1300
 This repository is a set of documents to be read before beginning your C++ homework on Arrays and Vectors. 
 The assignment is based on the chapters in the Big C++ book that have been assigned for this week. 
  
-##IMPORTANT NOTES THIS WEEK:
+## IMPORTANT NOTES THIS WEEK:
 Some of the features this week may require you to compile using the C++11 standard. From now on, you should compile your code using this standard. To compile your code using the C++11 standard, add the standard flag to your g++ command:
     
     g++ -std=c++11 -o executable_filename cpp_filename.cpp
