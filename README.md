@@ -27,8 +27,8 @@ Please read the information posted in this repository carefully before getting s
 to make sure you are in the top level directory.
 1. Click on the _Git_ icon  <img src="doc_images/Git_icon.png" alt="GIT_icon" width="25"/>
 to see the GIT tools.
-1. Select *Clone a Repository*, give it the URL for the CSPB-1330-C-Final-Project repository at which you are currently looking, and select *CLONE*. 
-(GIT Project: https://github.com/CSCI-KNOX/CSPB-1300-C-Final-Project.git)
+1. Select *Clone a Repository*, give it the URL for the ***CSPB-1300-Arrays-and-Vectors*** repository at which you are currently looking, and select *CLONE*. 
+(GIT Repository: https://github.com/CSCI-KNOX/CSPB-1300-Arrays-and-Vectors)
 1. Select the folder icon and the CSPB-1300-C-Final_Project directory to see the files in the newly cloned directory.
 View the markdown files (\*.md) by right clicking on the file, select **_open with_** which will list two possible applications: ***Editor*** and ***Markdown Preview***.  Select the ***Markdown Preview*** to view the document.  Use the ***Editor*** to view the source of the document.
 <img src="doc_images/right_click_on_markdown.png" alt="right_click_on_markdown" width="230" style="vertical-align: top;"/> <img src="doc_images/markdown_open_with.png" alt="markdown_open_with" width="100"  style="vertical-align: top;"/> 
