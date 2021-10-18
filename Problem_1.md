@@ -24,7 +24,7 @@ You may assume that the iostream, fstream, string, cmath, vector, and algorithm 
 
 ### For example:
 
-| Test	| Result|
-|-------||
-|cout << smallest(2.5, 10, 3.3); | 2.5 |
+| Test	| Result |
+|--- | --- |
+| cout << smallest(2.5, 10, 3.3); | 2.5 |
 | cout << smallest(13.33, 1.7, 200); | 1.7 |
